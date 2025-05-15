@@ -1,0 +1,165 @@
+country_name,country_id
+Mexico,1
+US,2
+Total North America,3
+Argentina,4
+Brazil,5
+Colombia,6
+Ecuador,7
+Guyana,8
+Peru,9
+Trinidad & Tobago,10
+Venezuela,11
+Other S. & Cent. America,12
+Total S. & Cent. America,13
+Denmark,14
+Italy,15
+Norway,16
+Romania,17
+United Kingdom,18
+Other Europe,19
+Total Europe,20
+Azerbaijan,21
+Kazakhstan,22
+Russian Federation,23
+Turkmenistan,24
+Uzbekistan,25
+Other CIS,26
+Total CIS,27
+Iran,28
+Iraq,29
+Kuwait,30
+Oman,31
+Qatar,32
+Saudi Arabia,33
+Syria,34
+United Arab Emirates,35
+Yemen,36
+Other Middle East,37
+Total Middle East,38
+Algeria,39
+Angola,40
+Chad,41
+Republic of Congo,42
+Egypt,43
+Equatorial Guinea,44
+Gabon,45
+Libya,46
+Nigeria,47
+South Sudan,48
+Sudan,49
+Tunisia,50
+Other Africa,51
+Total Africa,52
+Australia,53
+Brunei,54
+China,55
+India,56
+Indonesia,57
+Malaysia,58
+Thailand,59
+Vietnam,60
+Other Asia Pacific,61
+Total Asia Pacific,62
+Total World,63
+of which: OECD,64
+                 Non-OECD,65
+                 OPEC,66
+                 Non-OPEC ,67
+                 European Union ,68
+Chile,69
+Central America,70
+Other Caribbean,71
+Other South America,72
+Austria,73
+Belgium,74
+Bulgaria,75
+Croatia,76
+Cyprus,77
+Czech Republic,78
+Estonia,79
+Finland,80
+France,81
+Germany,82
+Greece,83
+Hungary,84
+Iceland,85
+Ireland,86
+Latvia,87
+Lithuania,88
+Luxembourg,89
+Netherlands,90
+North Macedonia,91
+Poland,92
+Portugal,93
+Slovakia,94
+Slovenia,95
+Spain,96
+Sweden,97
+Switzerland,98
+Turkey,99
+Ukraine,100
+Other Europe ,101
+Total Europe ,102
+Belarus,103
+USSR,104
+Israel,105
+Morocco,106
+South Africa,107
+Eastern Africa,108
+Middle Africa,109
+Western Africa,110
+Other Northern Africa,111
+Other Southern Africa,112
+Bangladesh,113
+China Hong Kong SAR,114
+Japan,115
+New Zealand,116
+Pakistan,117
+Philippines,118
+Singapore,119
+South Korea,120
+Sri Lanka,121
+Taiwan,122
+                 European Union #,123
+Benin,124
+Burkina Faso,125
+Cameroon,126
+Cape Verde,127
+"Congo, Dem. Rep.",128
+CongoRep,129
+Cote d'Ivoire,130
+Ethiopia,131
+Ghana,132
+Kenya,133
+Lesotho,134
+Madagascar,135
+Malawi,136
+Mali,137
+Mozambique,138
+Namibia,139
+Niger,140
+Rwanda,141
+Senegal,142
+Tanzania,143
+Uganda,144
+Zambia,145
+"Low Income, Fragile",146
+"Low Income, Non-Fragile",147
+middle Income,148
+Resource Rich,149
+SSA,150
+CEMAC,151
+COMESA,152
+EAC,153
+ECOWAS,154
+SADC,155
+Central Africa Power Pool,156
+Eastern Africa Power Pool,157
+Southern Africa Power Pool,158
+Western Africa Power Pool,159
+Countries with predominantly hydro generation,160
+Countries with installed capacity below 200 MW,161
+"Countries with installed capacity above 1,000 MW",162
+"Countries with installed capacity 200 MW to 1,000 MW",163
+Countries with predominantly thermal generation,164
