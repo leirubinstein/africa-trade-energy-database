@@ -62,10 +62,15 @@ The `data_cleaning.ipynb` notebook details code used to clean the above datasets
 ├── LICENSE
 ├── queries.sql # queries used to produce data visualizations
 ├── README.md
+├── requirements.txt # project packages and dependencies
 └── setup_db.sql # DuckDB sql code used to set up database
 ```
 
 ## Environment & Dependencies
+
+**Version:** Python 3.7.13
+
+Please see `requirements.txt` for project packages and dependencies.
 
 ## Author
 
