@@ -1,5 +1,21 @@
 # Africa Trade and Energy Indicators Database
 
+![Source: [Brookings Institution](https://www.brookings.edu/articles/figure-of-the-week-electricity-access-in-africa/)](figures/global_south_africa_electricity_002.png)
+
+## Introduction
+
+While recent American policy trends towards trade protecionism, regional electricity trade integration represents one of Africa's most promising pathways to achieve universal energy access and economic development, with potential to save African countries $40 billion in capital spending, according to a [report by the World Bank](https://www.worldbank.org/en/results/2025/02/06/powering-africa-the-transformational-impact-of-regional-energy-projects-in-west-africa). The [UN Sustainable Development Group](https://unsdg.un.org/latest/stories/decoding-africa%E2%80%99s-energy-journey-three-key-numbers#:~:text=Caption%3A%20Around%20600%20million%20Africans,the%20global%20electricity%20access%20gap.) estimates that over 600 million Africans still lack electricity access.  Understanding the potential benefits and trade-offs of connecting national power grids is crucial for policymakers and NGOs. This database and my queries were produced to address these questions: 
+
+**- Which countries would benefit most from regional trade?**
+**- What are the potential cost savings?**
+**- How do current electricity access patterns relate to integration opportunities?**
+
+By analyzing scenarios comparing isolated national markets versus optimal regional trade, we can identify countries that could dramatically reduce electricity costs and countries that might resist integration due to higher costs. The analysis reveals stark differences in how African countries would benefit from regional electricity trade integration, with Chad (57% cost savings), Mozambique (50%), and Niger (20%) showing the highest potential benefits, while Tanzania (-20%), Ethiopia (-16%), and Cameroon (-14%) would face higher costs as net electricity exporters. This uneven distribution of benefits could create coalitions for and against integration, highlighting the need for compensation mechanisms to ensure equitable participation in regional electricity markets.
+
+In working with this data, I encountered the challenges of inconsistent and missing data for a significant number of countries across all datasets and most indicators/series, and had to modify my queries to obtain results with any data. I aggregated cost projections by country, but some of the names for these entities could have represented transnational power pools in the original data. There was no documentation in the metadata on what these entities represented, so I took my best guess. Due to these challenges, my analyses may not be robust or accurate.
+
+Causes for poor data collection could be political instability or insufficient economic investment in survey infrastructure. Having insufficient data only compounds these issues, because policymakers or international aid groups  cannot set accurate benchmarks to evaluate policies or interventions.
+
 ## Description
 
 This repository houses code used to create a database of energy infrastructure statistics, energy cost projections, and human development indicators for Africa derived three different from World Bank and Energy Institute datasets.
@@ -56,6 +72,7 @@ The `data_cleaning.ipynb` notebook details code used to clean the above datasets
 │   ├── africa_lrmc_savings.png # data visualization 1
 │   ├── africa_trade_map.png # data visualization 3
 │   └── er-diagram.png # schema diagram
+│   └── global_south_africa_electricity_002.png
 ├── .gitignore
 ├── data_cleaning.ipynb # notebook for data cleaning
 ├── data_visualization.ipynb # notebook for data visualizations
@@ -76,11 +93,12 @@ Please see `requirements.txt` for project packages and dependencies.
 
 Leilanie Rubinstein
 
-Master of Environmental Data Science Student, Bren School of Environmental Science & Management
+*Master of Environmental Data Science Student, Bren School of Environmental Science & Management*
 
-(leilanierubinstein@gmail.com)
+Contact information:
 
-(rubinstein@bren.ucsb.edu)
+- [leilanierubinstein@gmail.com]
+- [rubinstein@bren.ucsb.edu]
 
 ## Acknowledgments 
 
