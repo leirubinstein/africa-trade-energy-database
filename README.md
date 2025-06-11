@@ -7,9 +7,9 @@ Source: [Brookings Institution](https://www.brookings.edu/articles/figure-of-the
 
 While recent American policy trends towards trade protecionism, regional electricity trade integration represents one of Africa's most promising pathways to achieve universal energy access and economic development, with potential to save African countries $40 billion in capital spending, according to a [report by the World Bank](https://www.worldbank.org/en/results/2025/02/06/powering-africa-the-transformational-impact-of-regional-energy-projects-in-west-africa). The [UN Sustainable Development Group](https://unsdg.un.org/latest/stories/decoding-africa%E2%80%99s-energy-journey-three-key-numbers#:~:text=Caption%3A%20Around%20600%20million%20Africans,the%20global%20electricity%20access%20gap.) estimates that over 600 million Africans still lack electricity access.  Understanding the potential benefits and trade-offs of connecting national power grids is crucial for policymakers and NGOs. This database and my queries were produced to address these questions: 
 
-**- Which countries would benefit most from regional trade?**
-**- What are the potential cost savings?**
-**- How do current electricity access patterns relate to integration opportunities?**
+- **Which countries would benefit most from regional trade?**
+- **What are the potential cost savings?**
+- **How do current electricity access patterns relate to integration opportunities?**
 
 By analyzing scenarios comparing isolated national markets versus optimal regional trade, we can identify countries that could dramatically reduce electricity costs and countries that might resist integration due to higher costs. The analysis reveals stark differences in how African countries would benefit from regional electricity trade integration, with Chad (57% cost savings), Mozambique (50%), and Niger (20%) showing the highest potential benefits, while Tanzania (-20%), Ethiopia (-16%), and Cameroon (-14%) would face higher costs as net electricity exporters. This uneven distribution of benefits could create coalitions for and against integration, highlighting the need for compensation mechanisms to ensure equitable participation in regional electricity markets.
 
