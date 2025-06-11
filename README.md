@@ -1,6 +1,7 @@
 # Africa Trade and Energy Indicators Database
 
-![Source: [Brookings Institution](https://www.brookings.edu/articles/figure-of-the-week-electricity-access-in-africa/)](figures/global_south_africa_electricity_002.png)
+![](figures/global_south_africa_electricity_002.png)
+Source: [Brookings Institution](https://www.brookings.edu/articles/figure-of-the-week-electricity-access-in-africa/)
 
 ## Introduction
 
